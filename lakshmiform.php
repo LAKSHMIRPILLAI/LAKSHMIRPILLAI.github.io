@@ -1,8 +1,8 @@
 <?php
-$name =  $_POST['name'];
-$email = $_POST['email'];
-$phone = $_POST['phone'];
-$message = $_POST['text1'];
+$name =  $_GET['name'];
+$email = $_GET['email'];
+$phone = $_GET['phone'];
+$message = $_GET['text1'];
 $formcontent="From: $name \n Message: $message";
 $recipient = "luxmi.r.pillai@gmail.com";
 $subject = "Contact Form";
