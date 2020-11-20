@@ -1,0 +1,66 @@
+#avatar{
+
+  width: 250px;
+  height:  auto;
+}
+#intro{background-color:#BD3147;width:10em;
+color: ivory;}
+
+#resume{background-color:#990011FF;
+border: none;
+color:  ivory;padding: 20px;
+text-align: center;
+text-decoration: none;  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;width:15em;
+}
+
+#name{color: ivory}
+#hello{font-size: 4em;}
+#lakshmi{background-color: #304145}
+#lakshmi1{background-color: #ECE9E1}
+#contact{width: 1em;height:1em;}
+#p1{font-weight: bold;color: black}
+.button {
+  background-color:#990011FF;
+  border: none;
+  color:  #3D3D3D;
+  padding: 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 50%;
+}
+#logocircle{color:#ECE9E1 }
+
+
+#contact1{font-size: 5em;color: black;}
+#connect{background-color:#ECE9E1}
+#userinputcontact{font-weight: bold;}
+#textbox4contact{width:300px;height:200px;background-color: #ECE9E1;color: black;}
+#textbox1contact{background-color: #ECE9E1;color: black;}
+#textbox2contact{background-color: #ECE9E1;color: black;}
+#textbox3contact{background-color: #ECE9E1;color: black;}
+#copyright{text-align: center;font-weight: bold;}
+
+.project{font-style: bold;background-color:#ECE9E1}
+#project1{font-style: bold;text-decoration: underline;color:ivory;background-color:#304145}
+#projectsgn{border-color:  black}
+
+
+#skills1{color:ivory;text-decoration: underline;background-color:#304145; }
+#acdProj1{color:ivory;text-decoration: underline;background-color:#304145;}
+#edu1{color:ivory;text-decoration: underline;background-color:#304145; }
+.button1 {
+  background-color:#990011FF;
+  color:  ivory;
+  padding: 20px;
+  text-align: center;
+  display:block;
+  font-size: 16px;
+  width:25em;
+  }
+
+  #s1{color: ivory;}
